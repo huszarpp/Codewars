@@ -1,3 +1,3 @@
 # Codewars
 
-First row in Codewars
+This repository contains some of my Codewars solutions.
